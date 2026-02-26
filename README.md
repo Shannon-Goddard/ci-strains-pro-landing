@@ -22,6 +22,15 @@ As seen in our [Methodology](methodology.html), a single strain name like **"Aca
 - **The Concept:** Move away from majority-rules logic to **Breeder-Anchored** logic.
 - **The Production:** A 100-hour **Gemini Flash** pipeline used to reconcile 200+ columns, filtering out the noise and logical fallacies.
 
+### 🚀 The Multimodal Roadmap: Beyond Strains
+CI-Strains-Pro is the foundational layer for a larger Neural Network ecosystem. We are adding datasets to include:
+
+- **Hardware Intelligence:** Verified specs for lighting (PPFD/Spectrum), ventilation (CFM/Static Pressure), and nutrient titration.
+
+- **The AI Gatekeeper:** A proprietary training model that uses environmental knowns (Light/Fan/Strain) to validate high-fidelity imagery.
+
+- **Image-to-Data Pipeline:** Future iterations will feature "Image Drop" capabilities where the AI verifies plant health and phenotype consistency against our validated baseline.
+
 ## 📁 Repository Structure
 * `/landing`: The source code for the Pro landing page (MIT Licensed).
 * `/legal`: Standard EULA, White Label Agreements, and Privacy Policies.
