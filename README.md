@@ -18,14 +18,14 @@ This repository serves as the public "receipt" for the data integrity found at [
 Our entire validation methodology and build process is 100% open for technical audit.
 
 ### The Problem: Generalization vs. Specificity
-As seen in our [Methodology](https://pro.loyal9.app/methodology.html), a single strain name like **"Acapulco Gold"** can appear 15+ times with conflicting THC levels, flowering times, and terpene profiles. 
+As seen in our [Methodology](methodology.html), a single strain name like **"Acapulco Gold"** can appear 15+ times with conflicting THC levels, flowering times, and terpene profiles. 
 - **The Concept:** Move away from majority-rules logic to **Breeder-Anchored** logic.
 - **The Production:** A 100-hour **Gemini Flash** pipeline used to reconcile 200+ columns, filtering out the noise and logical fallacies.
 
 ## 📁 Repository Structure
 * `/landing`: The source code for the Pro landing page (MIT Licensed).
 * `/legal`: Standard EULA, White Label Agreements, and Privacy Policies.
-* `/assets/branding`: Official "Powered by CI" badge assets (See [Brand Guidelines](./brand_guidelines.md)).
+* `/assets/branding`: Official "Powered by CI" badge assets (See [Brand Guidelines](assets\branding\brand_guidelines.md)).
 
 ---
 
@@ -53,7 +53,6 @@ Best for light backgrounds.
 ```
 ### 2. White Monochrome
 Best for dark or high-contrast backgrounds.
-
 <img src="assets/branding/ci-badge-white.svg" width="240" alt="Powered by CI Whiter">
 
 ```html
