@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🌿 CI-Strains-Pro: Enterprise Cannabis Intelligence
 
 [![Powered by CI](https://img.shields.io/badge/Data_Integrity-Powered_by_CI-04AA6D?style=flat-square)](https://pro.loyal9.app)

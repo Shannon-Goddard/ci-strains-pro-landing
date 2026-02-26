@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # CI-Strains Brand & Badge Guidelines
 
 ## 🌿 The "Powered by CI" Promise
