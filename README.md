@@ -1,8 +1,8 @@
 # 🌿 CI-Strains-Pro: Enterprise Cannabis Intelligence
 
-[![Powered by CI](https://img.shields.io/badge/Data_Integrity-Powered_by_CI-04AA6D?style=flat-square)](https://pro.loyal9.app)
+[![Powered by CI](https://img.shields.io/badge/Data_Integrity-Powered_by_CI-04AA6D?style=flat-square)](https://strains.poweredby.ci)
 [![License: MIT](https://img.shields.io/badge/Code_License-MIT-blue.svg?style=flat-square)](https://opensource.org/licenses/MIT)
-[![LLC Protected](https://img.shields.io/badge/Provider-Loyal9_LLC-gray.svg?style=flat-square)](https://pro.loyal9.app)
+[![LLC Protected](https://img.shields.io/badge/Provider-Loyal9_LLC-gray.svg?style=flat-square)](https://strains.poweredby.ci)
 [![GitHub](https://img.shields.io/badge/Audit_the_Build_on_GitHub-181717?logo=github&logoColor=white&style=flat-square)](https://github.com/Shannon-Goddard/ci-strains-pro)
 
 **CI-Strains-Pro** is the definitive, AI-validated baseline for cannabis strain intelligence. While the industry suffers from "Trust Me Bro" data fragmentation, this project provides a reconciled, breeder-anchored dataset spanning 200+ unique data points.
@@ -10,7 +10,7 @@
 ---
 
 ## 🛠 The "Whoops to Trash" Transparency
-This repository serves as the public "receipt" for the data integrity found at [pro.loyal9.app](https://pro.loyal9.app). 
+This repository serves as the public "receipt" for the data integrity found at [pro.loyal9.app](https://strains.poweredby.ci). 
 
 ---
 
@@ -83,7 +83,7 @@ Best for grayscale or print materials.
 
 ## ⚖️ Licensing
 - **Website Code:** Licensed under the [MIT License](LICENSE).
-- **Dataset:** Proprietary. Available for purchase at [pro.loyal9.app](https://pro.loyal9.app).
+- **Dataset:** Proprietary. Available for purchase at [pro.loyal9.app](https://strains.poweredby.ci).
   - **Research License ($999):** Internal use, no resale.
   - **White Label License ($5k-$50k):** Rebranding rights for B2B integration.
 
